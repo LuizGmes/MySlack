@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySlack</string>
+    <string name="contacts">Contacts</string>
+    <string name="my_profile">My Profile</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_channel">ChannelActivity</string>
+    <string name="channels">Channels</string>
+</resources>

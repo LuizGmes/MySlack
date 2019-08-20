@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#531755</color>
+    <color name="colorPrimaryDark">#48114A</color>
+    <color name="colorAccent">#E9A823</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="profile_bg">#F5F5F5</color>
+
+    <color name="text_primary">#0E2A47</color>
+    <color name="text_secondary">#8B8B8B</color>
+
+    <color name="button_bg">#ECECEC</color>
+    <color name="bg_row_sender">#DBF9C4</color>
+</resources>
